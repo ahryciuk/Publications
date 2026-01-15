@@ -1,4 +1,4 @@
-# Publications
+# Alexander Hryciuk's Selected Publications
 
 - **My Thesis**: Hryciuk, Alexander. 2025. “The SPT-3G Wide Survey Galaxy Cluster Catalog and the SPT-3G+ Cryostat Design.” University of Chicago. https://doi.org/10.6082/UCHICAGO.15844.
 
