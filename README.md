@@ -1,5 +1,7 @@
 # Publications
 
+- **My Thesis**: Hryciuk, Alexander. 2025. “The SPT-3G Wide Survey Galaxy Cluster Catalog and the SPT-3G+ Cryostat Design.” University of Chicago. https://doi.org/10.6082/UCHICAGO.15844.
+
 - Archipley, M., A. Hryciuk, et al. (2025). Millimeter-wave observations of Euclid Deep Field South using the South Pole Telescope: A data release of temperature maps and catalogs. arXiv: 2506.00298 [astro-ph.GA]. url: https://arxiv.org/abs/2506.00298.
 
 - Anderson, A. J., P. Barry, et al. (2022). SPT-3G+: Mapping the High-Frequency Cosmic Microwave Background Using Kinetic Inductance Detectors. arXiv: 2208.08559 [astro-ph.IM]. url: https://arxiv.org/abs/2208.08559.
